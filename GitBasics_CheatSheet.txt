@@ -10,3 +10,4 @@ Commands related to checking status or log history
     $ git log [history of actions]
 Basic Git syntax is "program | action | destination"
 for example "git add ." is read as "git | add | . " where "." represents everything in the current directory
+Order: CD into repo > touch or open file > make changes > add or commit > push
